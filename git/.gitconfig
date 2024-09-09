@@ -1,0 +1,22 @@
+[user]
+        name = Taylor Nuffer
+        email = nuffertaylor@gmail.com
+[alias]
+        resetfile = checkout HEAD --
+        s = status
+        cam = commit -am
+        b = branch
+        rekt = reset --hard
+        show-aliases = config --get-regexp ^alias
+        undocommithard = reset --hard HEAD~1
+        undocommit = reset HEAD~1
+        bd = branch -d
+        nb = checkout -b
+        amend = commit --amend
+        aa = add -A
+        cm = commit -m
+        aacm = !git add -A && git commit -m
+[push]
+        autoSetupRemote = true
+[rerere]
+        enabled = true
