@@ -1,0 +1,22 @@
+{
+  "workbench.colorTheme": "Atom One Dark",
+  "editor.tabSize": 2,
+  "editor.autoClosingBrackets": "never",
+  "editor.autoClosingQuotes": "never",
+  "editor.autoClosingOvertype": "never",
+  "editor.autoClosingDelete": "never",
+  "workbench.startupEditor": "none",
+  "terminal.integrated.enableMultiLinePasteWarning": false,
+  "explorer.confirmDragAndDrop": false,
+  "git.confirmSync": false,
+  "[python]": {
+      "editor.formatOnType": true
+  },
+  "update.showReleaseNotes": false,
+  "redhat.telemetry.enabled": false,
+  "explorer.confirmDelete": false,
+  "extensions.ignoreRecommendations": true,
+  "editor.fontFamily": "Menlo, 'Source Code Pro', Monaco, 'Courier New', monospace",
+  "terminal.integrated.defaultProfile.osx": "zsh",
+  "editor.stickyScroll.enabled": false
+}
