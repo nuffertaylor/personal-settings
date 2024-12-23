@@ -4,6 +4,7 @@
 [alias]
         resetfile = checkout HEAD --
         s = status
+        c = checkout
         cam = commit -am
         b = branch
         rekt = reset --hard
