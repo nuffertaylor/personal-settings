@@ -12,6 +12,7 @@
         undocommithard = reset --hard HEAD~1
         undocommit = reset HEAD~1
         bd = branch -d
+        bD = branch -D
         nb = checkout -b
         amend = commit --amend
         aa = add -A
