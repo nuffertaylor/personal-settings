@@ -1,0 +1,34 @@
+{
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "editor.autoClosingBrackets": "never",
+    "editor.autoClosingDelete": "never",
+    "editor.autoClosingOvertype": "never",
+    "editor.autoClosingQuotes": "never",
+    "editor.fontFamily": "Menlo, 'Source Code Pro', Monaco, 'Courier New', monospace",
+    "editor.stickyScroll.enabled": false,
+    "editor.tabSize": 2,
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmPasteNative": false,
+    "extensions.ignoreRecommendations": true,
+    "git.confirmSync": false,
+    "html.autoClosingTags": false,
+	"github.copilot.enable": {
+      "*": false
+    },
+    "github.copilot.nextEditSuggestions.enabled": false,
+    "github.copilot.chat.agent.autoFix": false,
+    "github.copilot.chat.agent.currentEditorContext.enabled": false,
+	"github.copilot.editor.enableCodeActions": false,
+    "github.copilot.nextEditSuggestions.fixes": false,
+    "github.copilot.renameSuggestions.triggerAutomatically": false,
+    "github.copilot.chat.copilotDebugCommand.enabled": false,
+    "redhat.telemetry.enabled": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "update.showReleaseNotes": false,
+    "workbench.colorTheme": "Atom One Dark",
+    "workbench.startupEditor": "none"
+}
